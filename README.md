@@ -1,6 +1,3 @@
-Got you, Enio. No stress — here’s your **fully corrected, clean, copy-paste-ready `README.md`** file. Just delete everything in your current README and replace it with this exact content below:
-
----
 
 ````markdown
 # Distance Sensor with Arduino + Python 📏💻
@@ -91,3 +88,4 @@ distance-sensor-python/
 Created by **Enio Mecaj** — feel free to use, share, or improve this project!
 
 ```
+
