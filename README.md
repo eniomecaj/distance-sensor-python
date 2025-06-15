@@ -22,7 +22,7 @@ This project combines an Arduino and an HC-SR04 ultrasonic sensor to measure rea
 - HC-SR04 Ultrasonic Sensor  
 - Green LED  
 - Red LED  
-- Passive Piezo Buzzer  
+- Active Piezo Buzzer  
 - Resistors, Breadboard, Jumper Wires
 
 ---
