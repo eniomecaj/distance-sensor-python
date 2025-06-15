@@ -2,7 +2,9 @@
 ````markdown
 # Distance Sensor with Arduino and Python
 
-This project combines an Arduino and an HC-SR04 ultrasonic sensor to measure real-time distance. Readings are sent over serial to a Python script, which interprets the data and gives visual and audio feedback using LEDs and a buzzer.
+This project combines an Arduino and an HC-SR04 ultrasonic sensor to measure real-time distance.
+Readings are sent over serial to a Python script,
+which interprets the data and gives visual and audio feedback using LEDs and a buzzer.
 
 ---
 
