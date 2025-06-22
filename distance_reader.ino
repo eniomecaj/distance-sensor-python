@@ -56,6 +56,7 @@ if (distanceCm > 400 || distanceCm <= 0) {
   Serial.print("{\"distance_cm\":");
   Serial.print(distanceCm);
   Serial.println("}");
+  //Serial.println(distanceCm);
 
   delay(100); // limit to ~10 readings/sec
 }
