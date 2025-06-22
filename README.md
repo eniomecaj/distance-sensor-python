@@ -50,7 +50,7 @@ pip install pyserial
 4. Edit the COM port and run the Python script:
 
 
-PORT = 'COM4'  # Change to match your setup
+PORT = 'COM3'  # Change to match your setup
 python distance_reader.py
 
 
@@ -92,10 +92,10 @@ Example wiring and output screenshots:
 
 ## Planned Upgrades
 
-- Live plotting with matplotlib  
-- GUI interface using Tkinter or PyQt  
-- CSV data logging  
-- Automatic serial port detection  
+- ✅ Live plotting with matplotlib (added 22 June 2025)
+- Real-time data graph
+- Animated updates every 100 ms
+- Smoothing applied to distance readings 
 
 ---
 
