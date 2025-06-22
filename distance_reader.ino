@@ -1,6 +1,6 @@
 const int TRIG_PIN = 13;
 const int ECHO_PIN = 12;
-const int BUZZER = 11;
+const int BUZZER = 11; // use an active buzzer for this project
 const int greenLED = 10;
 const int redLED = 9;
 
